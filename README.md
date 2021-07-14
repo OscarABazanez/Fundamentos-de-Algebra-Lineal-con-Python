@@ -5,8 +5,8 @@ Este repositorio contiene los notebooks del curso en Platzi [Curso de Fundamento
 
 ## Resumen del curso Deepnote: 
 
-[<img src="https://deepnote.com/buttons/try-in-a-jupyter-notebook.svg">](https://deepnote.com/)
+[<img src="https://deepnote.com/buttons/try-in-a-jupyter-notebook.svg">](https://deepnote.com/@oscarabazanez/Fundamentos-de-Algebra-Lineal-con-Python-RIDvrdfSSGqSuBfiUjRCMg)
 
-## Proceso de un análisis de datos:
+## Resumen del curso:
 
-* [proceso.ipynb]()
+* [resumen-del-curso.ipynb](https://github.com/OscarABazanez/Fundamentos-de-Algebra-Lineal-con-Python/blob/main/resumen-del-curso.ipynb)
